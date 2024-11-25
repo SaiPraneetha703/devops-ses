@@ -1,2 +1,2 @@
 # devops-ses
-A simple java program to demenstrate devops
+A simple REST api
