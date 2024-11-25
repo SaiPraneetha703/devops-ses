@@ -1,2 +1,2 @@
 # devops-ses
-A simple java program to develop devops
+A simple java program to demenstrate devops
